@@ -1,6 +1,6 @@
 {
-  "domain": "myhome",
-  "name": "MyHOME",
+  "domain": "myhome_2",
+  "name": "MyHOME_2",
   "version": "0.8.6",
   "config_flow": true,
   "documentation": "https://github.com/anotherjulien/MyHOME",

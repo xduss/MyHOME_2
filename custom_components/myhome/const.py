@@ -2,7 +2,7 @@
 import logging
 
 LOGGER = logging.getLogger(__package__)
-DOMAIN = "myhome"
+DOMAIN = "myhome_2"
 
 ATTR_MESSAGE = "message"
 
